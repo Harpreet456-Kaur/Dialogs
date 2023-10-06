@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="HomePage">Home Page</string>
+    <string name="Want_to_Continue">Want to continue</string>
+    <string name="alertDialog">Open AlertDialog</string>
+    <string name="List">List of Food</string>
+    <string name="click">Click on bottom button</string>
+
+</resources>
